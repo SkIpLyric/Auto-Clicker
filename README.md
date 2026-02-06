@@ -12,4 +12,4 @@
 
 ## Установка
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/SkiPlyric/Auto-Clicker/main/AUTOCLICKER", true))()
+return loadstring(game:HttpGet("https://raw.githubusercontent.com/SkiPlyric/Auto-Clicker/main/loader.lua", true))()
